@@ -3,21 +3,21 @@
     "description": "",
     "version": "2.0.1",
     "benchmarks" : {
-        "babai": "git@github.com:/Sable/babai-benchmark.git"
+        "babai": "git://github.com:/Sable/babai-benchmark.git"
     },
     "compilers": {
-        "gcc": "git@github.com:/Sable/ostrich-gcc-compiler.git",
-        "g++": "git@github.com:/Sable/ostrich-gpp-compiler.git",
-        "browserify": "git@github.com:/Sable/ostrich-browserify-compiler.git",
-        "matlab-concat": "git@github.com:/Sable/ostrich-matlab-concatenate-compiler.git"
+        "gcc": "git://github.com:/Sable/ostrich-gcc-compiler.git",
+        "g++": "git://github.com:/Sable/ostrich-gpp-compiler.git",
+        "browserify": "git://github.com:/Sable/ostrich-browserify-compiler.git",
+        "matlab-concat": "git://github.com:/Sable/ostrich-matlab-concatenate-compiler.git"
     },
     "environments": {
-        "chrome": "git@github.com:/Sable/ostrich-chrome-environment.git",
-        "firefox": "git@github.com:/Sable/ostrich-firefox-environment.git",
-        "safari": "git@github.com:/Sable/ostrich-safari-environment.git",
-        "matlab-vm": "git@github.com:/Sable/ostrich-matlab-vm-environment.git",
-        "octave": "git@github.com:/Sable/ostrich-octave-environment.git",
-        "native": "git@github.com:/Sable/ostrich-native-environment.git"     
+        "chrome": "git://github.com:/Sable/ostrich-chrome-environment.git",
+        "firefox": "git://github.com:/Sable/ostrich-firefox-environment.git",
+        "safari": "git://github.com:/Sable/ostrich-safari-environment.git",
+        "matlab-vm": "git://github.com:/Sable/ostrich-matlab-vm-environment.git",
+        "octave": "git://github.com:/Sable/ostrich-octave-environment.git",
+        "native": "git://github.com:/Sable/ostrich-native-environment.git"     
     },
     "experiments": {
         "all": ""
