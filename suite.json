@@ -7,7 +7,7 @@
     },
     "compilers": {
         "gcc": "git@github.com:/Sable/ostrich-gcc-compiler.git",
-        "g++": "git@github.com:/Sable/ostrich-g++-compiler.git",
+        "g++": "git@github.com:/Sable/ostrich-gpp-compiler.git",
         "browserify": "git@github.com:/Sable/ostrich-browserify-compiler.git",
         "cat-matlab": "git@github.com:/Sable/ostrich-cat-matlab-compiler.git"
     },
