@@ -18,8 +18,5 @@
         "matlab-vm": "git://github.com:/Sable/ostrich-matlab-vm-environment.git",
         "octave": "git://github.com:/Sable/ostrich-octave-environment.git",
         "native": "git://github.com:/Sable/ostrich-native-environment.git"     
-    },
-    "experiments": {
-        "all": ""
-    }    
+    } 
 }
