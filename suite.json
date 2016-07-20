@@ -15,7 +15,7 @@
         "chrome": "git://github.com:/Sable/ostrich-chrome-environment.git",
         "firefox": "git://github.com:/Sable/ostrich-firefox-environment.git",
         "safari": "git://github.com:/Sable/ostrich-safari-environment.git",
-        "matlab-vm": "git://github.com:/Sable/ostrich-matlab-vm-environment.git",
+        "matlab-vm": "git://github.com:/Sable/ostrich-matlab-environment.git",
         "octave": "git://github.com:/Sable/ostrich-octave-environment.git",
         "native": "git://github.com:/Sable/ostrich-native-environment.git"     
     } 
