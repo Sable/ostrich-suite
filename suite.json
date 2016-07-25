@@ -1,4 +1,5 @@
 {
+    "type": "suite",
     "name": "Ostrich",
     "description": "",
     "version": "2.0.0",
