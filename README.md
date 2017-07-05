@@ -15,7 +15,7 @@ Once you have installed the [Wu-Wei Benchmarking Toolkit](https://github.com/Sab
 
 Here is the list of benchmarks to complete:
 
-| Name         | Implementations   | Sizes Checked | Consistency Succeeds    | Listed in Supported Artifacts  |
+| Name         | Implementations   | Sizes Checked | Consistency Succeeds    | Listed in [Available Artifacts](https://github.com/Sable/wu-wei-handbook/blob/master/list-available-artifacts.md)  |
 | :--------    | :---------------- | :------------ | :---------------------- | :----------------------------- |
 | backprop     | c,js,matlab       |  S,M,L        | yes                     | yes                            |
 | bfs          |                   |               | no                      | no                             |
