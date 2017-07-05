@@ -2,18 +2,18 @@
     "type": "experiment",
     "short-name": "ostrich",
     "version": "2.0.0",
-    "dependencies": {
-        "backprop": "https://github.com:/Sable/backprop-benchmark.git",
-        "gcc": "https://github.com:/Sable/ostrich-gcc-compiler.git",
-        "g++": "https://github.com:/Sable/ostrich-gpp-compiler.git",
-        "browserify": "https://github.com:/Sable/ostrich-browserify-compiler.git",
-        "matlab-concat": "https://github.com:/Sable/ostrich-matlab-concatenate-compiler.git",
-        "chrome": "https://github.com:/Sable/ostrich-chrome-environment.git",
-        "firefox": "https://github.com:/Sable/ostrich-firefox-environment.git",
-        "node": "https://github.com:/Sable/ostrich-node-environment.git",
-        "safari": "https://github.com:/Sable/ostrich-safari-environment.git",
-        "matlab-vm": "https://github.com:/Sable/ostrich-matlab-environment.git",
-        "octave": "https://github.com:/Sable/ostrich-octave-environment.git",
-        "native": "https://github.com:/Sable/ostrich-native-environment.git"
-    }
+    "dependencies": [
+        "https://github.com:/Sable/backprop-benchmark.git",
+        "https://github.com:/Sable/ostrich-gcc-compiler.git",
+        "https://github.com:/Sable/ostrich-gpp-compiler.git",
+        "https://github.com:/Sable/ostrich-browserify-compiler.git",
+        "https://github.com:/Sable/ostrich-matlab-concatenate-compiler.git",
+        "https://github.com:/Sable/ostrich-chrome-environment.git",
+        "https://github.com:/Sable/ostrich-firefox-environment.git",
+        "https://github.com:/Sable/ostrich-node-environment.git",
+        "https://github.com:/Sable/ostrich-safari-environment.git",
+        "https://github.com:/Sable/ostrich-matlab-environment.git",
+        "https://github.com:/Sable/ostrich-octave-environment.git",
+        "https://github.com:/Sable/ostrich-native-environment.git"
+    ]
 }
