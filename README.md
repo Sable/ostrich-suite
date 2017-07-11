@@ -19,8 +19,8 @@ Here is the list of benchmarks to complete:
 | :--------    | :---------------- | :------------ | :---------------------- | :------------------ | :--------------- | :----------------------------- |
 | backprop     | c,js,matlab       |  S,M,L        | yes                     | chrome,firefox,matlab-vm,native,node,safari |  osx              | yes                            |
 | bfs          | c,js              |  S,M,L (L only for C, not enough memory on JS)        | yes                     | chrome,firefox,native,node,safari              |                  | no                             |
-| crc          | c,js,matlab       | S,M,L (L only for C, JS problem using server.log | no| chrome,firefox,native,node |osx| yes
-| fft          | c,js,matlab       | S,M,L (L is too large for all of them   | no                  | chrome,firefox,native,node |osx| yes| 
+| crc          | c,js,matlab       | S,M,L (L only for C, JS problem using server.log | no| chrome,firefox,matlab-vm, native,node |osx| yes
+| fft          | c,js,matlab       | S,M,L (L is too large for all of them   | no                  | chrome,firefox,matlab-vm,native,node |osx| yes| 
 | hmm          |                   |               | no                      |                     |                  | no                             |
 | lavamd       |                   |               | no                      |                     |                  | no                             |
 | lud          |                   |               | no                      |                     |                  | no                             |
