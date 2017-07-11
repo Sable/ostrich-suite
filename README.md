@@ -18,7 +18,7 @@ Here is the list of benchmarks to complete:
 | Name         | Implementations   | Sizes Checked | Consistency Succeeds    | Environments Tested | Listed in [Available Artifacts](https://github.com/Sable/wu-wei-handbook/blob/master/list-available-artifacts.md)  |
 | :--------    | :---------------- | :------------ | :---------------------- | :------------------ |  :----------------------------- |
 | backprop     | c,js,matlab       |  S,M,L        | yes                     | node,chrome,firefox,safari,native,matlab-vm | yes                            |
-| bfs          | c                 |  S,M,L        | yes                     | chrome              | no                             |
+| bfs          | c                 |  S,M,L        | yes                     | native              | no                             |
 | crc          |                   |               | no                      | no                             |
 | fft          |                   |               | no                      | no                             |
 | hmm          |                   |               | no                      | no                             |
