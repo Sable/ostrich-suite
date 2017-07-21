@@ -18,7 +18,7 @@ Here is the list of benchmarks to complete:
 | Name         | Implementations   | Sizes Checked | Consistency Succeeds    | Environments Tested | Platforms Tested | Listed in [Available Artifacts](https://github.com/Sable/wu-wei-handbook/blob/master/list-available-artifacts.md)  |
 | :--------    | :---------------- | :------------ | :---------------------- | :------------------ | :--------------- | :----------------------------- |
 | backprop     | c,js,matlab       |  S,M,L        | yes                     | chrome,firefox,matlab-vm,native,node,safari |  osx              | yes                            |
-| bfs          | c,js              |  S,M,L (L only for C, not enough memory on JS)        | yes                     | chrome,firefox,native,node,safari              |                  | no                             |
+| bfs          | c,js,matlab       |  S,M,L (L not for JS, data is too big/slow to generate/load in a browser)        | yes                     | chrome,firefox,native,node,safari,matlab-vm,octave              | osx              | yes                             |
 | crc          | c,js,matlab       | S,M,L (L only for C, JS problem using server.log | no| chrome,firefox,matlab-vm, native,node |osx| yes
 | fft          | c,js,matlab       | S,M,L (L is too large for all of them   | no                  | chrome,firefox,matlab-vm,native,node |osx| yes| 
 | hmm          |                   |               | no                      |                     |                  | no                             |
