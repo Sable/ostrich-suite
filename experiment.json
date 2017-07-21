@@ -4,6 +4,7 @@
     "version": "2.0.0",
     "dependencies": [
         "https://github.com:/Sable/backprop-benchmark.git",
+        "https://github.com:/Sable/bfs-benchmark.git",
         "https://github.com:/Sable/ostrich-gcc-compiler.git",
         "https://github.com:/Sable/ostrich-gpp-compiler.git",
         "https://github.com:/Sable/ostrich-browserify-compiler.git",
