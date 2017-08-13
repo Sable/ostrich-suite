@@ -19,7 +19,7 @@ Here is the list of benchmarks to complete:
 | :--------    | :---------------- | :------------ | :---------------------- | :------------------ | :--------------- | :----------------------------- |
 | backprop     | c,js,matlab       |  S,M,L        | yes                     | chrome,firefox,matlab-vm,native,node,safari |  osx              | yes                            |
 | bfs          | c,js,matlab       |  S,M,L (L not for JS, data is too big/slow to generate/load in a browser)        | yes                     | chrome,firefox,native,node,safari,matlab-vm,octave              | osx              | yes                             |
-| crc          | c,js,matlab       | S,M,L (L not tested for matlab, already taskes an hour for M) | yes | chrome,firefox,matlab-vm, native,node | osx | yes
+| crc          | c,js,matlab       | S,M,L (L not tested for matlab, already taskes an hour for M) | yes | chrome,firefox,matlab-vm,native,node,safari | osx | yes
 | fft          | c,js,matlab       | S,M,L (L is too large for all of them   | no                  | chrome,firefox,matlab-vm,native,node |osx| yes| 
 | hmm          |                   |               | no                      |                     |                  | no                             |
 | lavamd       |                   |               | no                      |                     |                  | no                             |
