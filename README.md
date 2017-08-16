@@ -24,7 +24,7 @@ Here is the list of benchmarks to complete:
 | hmm          |                   |               | no                      |                     |                  | no                             |
 | lavamd       |                   |               | no                      |                     |                  | no                             |
 | lud          |                   |               | no                      |                     |                  | no                             |
-| nqueens      |                   |               | no                      |                     |                  | no                             |
+| nqueens      | c,js,matlab       |  S,M,L (L not tested for matlab because it is too slow) | yes                      | chrome,firefox,matlab-vm,native,node,safari                    | osx         | yes                             |
 | nw           |                   |               | no                      |                     |                  | no                             |
 | page-rank    |                   |               | no                      |                     |                  | no                             |
 | spmv         |                   |               | no                      |                     |                  | no                             |
