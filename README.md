@@ -18,12 +18,12 @@ Here is the list of benchmarks to complete:
 | Name         | Implementations   | Sizes Checked | Consistency Succeeds    | Environments Tested | Platforms Tested | Listed in [Available Artifacts](https://github.com/Sable/wu-wei-handbook/blob/master/list-available-artifacts.md)  |
 | :--------    | :---------------- | :------------ | :---------------------- | :------------------ | :--------------- | :----------------------------- |
 | backprop     | c,js,matlab       |  S,M,L        | yes                     | chrome,firefox,matlab-vm,native,node,safari |  osx              | yes                            |
-| bfs          | c,js,matlab       |  S,M,L (L not for JS, data is too big/slow to generate/load in a browser)        | yes                     | chrome,firefox,native,node,safari,matlab-vm,octave              | osx              | yes                             |
+| bfs          | c,js,matlab       |  S,M,L (L not for JS, data is too big/slow to generate/load in a browser)        | yes                     | chrome,firefox,native,node,safari,matlab-vm,octave       | osx              | yes                             |
 | crc          | c,js,matlab       | S,M,L (L not tested for matlab, already taskes an hour for M) | yes | chrome,firefox,matlab-vm,native,node,safari | osx | yes
-| fft          | c,js,matlab,matlab-native (uses fft2 builtin) | S,M,L| yes                  | chrome,firefox,matlab-vm,native,node,safari |osx| yes| 
+| fft          | c,js,matlab,matlab-native (uses fft2 builtin) | S,M,L | yes                  | chrome,firefox,matlab-vm,native,node,safari |osx| yes| 
 | hmm          |                   |               | no                      |                     |                  | no                             |
 | lavamd       |                   |               | no                      |                     |                  | no                             |
-| lud          |                   |               | no                      |                     |                  | no                             |
+| lud          | c,js,matlab,matlab-native (uses lud buitin)   | S,M,L | yes  | chrome,firefox,matlab-vm,native,node,safari              | osx               | yes                             |
 | nqueens      | c,js,matlab       |  S,M,L (L not tested for matlab because it is too slow) | yes                      | chrome,firefox,matlab-vm,native,node,safari                    | osx         | yes                             |
 | nw           |                   |               | no                      |                     |                  | no                             |
 | page-rank    |                   |               | no                      |                     |                  | no                             |
