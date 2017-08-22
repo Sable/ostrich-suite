@@ -22,7 +22,7 @@ Here is the list of benchmarks to complete:
 | crc          | c,js,matlab       | S,M,L (L not tested for matlab, already taskes an hour for M) | yes | chrome,firefox,matlab-vm,native,node,safari | osx | yes
 | fft          | c,js,matlab,matlab-native (uses fft2 builtin) | S,M,L | yes                  | chrome,firefox,matlab-vm,native,node,safari |osx| yes| 
 | hmm          |                   |               | no                      |                     |                  | no                             |
-| lavamd       |                   |               | no                      |                     |                  | no                             |
+| lavamd       | c,js,matlab       | S,M,L         | yes                     | chrome,firefox,matlab-vm,native,node,safari |    osx | yes                          |
 | lud          | c,js,matlab,matlab-native (uses lud buitin)   | S,M,L | yes  | chrome,firefox,matlab-vm,native,node,safari              | osx               | yes                             |
 | nqueens      | c,js,matlab       |  S,M,L (L not tested for matlab because it is too slow) | yes                      | chrome,firefox,matlab-vm,native,node,safari                    | osx         | yes                             |
 | nw           |                   |               | no                      |                     |                  | no                             |
