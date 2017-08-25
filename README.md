@@ -28,5 +28,5 @@ Here is the list of benchmarks to complete:
 | nw           |                   |               | no                      |                     |                  | no                             |
 | page-rank    |                   |               | no                      |                     |                  | no                             |
 | spmv         |                   |               | no                      |                     |                  | no                             |
-| srad         |                   |               | no                      |                     |                  | no                             |
+| srad         | c,js,matlab       | S,M,L         | yes                     | chrome,firefox,matlab-vm,native,node,safari |   osx            | yes                             |
 
