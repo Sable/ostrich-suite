@@ -10,6 +10,7 @@
         "https://github.com/Sable/lavamd-benchmark.git",
         "https://github.com:/Sable/lud-benchmark.git",
         "https://github.com:/Sable/nqueens-benchmark.git",
+        "https://github.com:/Sable/srad-benchmark.git",
         "https://github.com:/Sable/ostrich-gcc-compiler.git",
         "https://github.com:/Sable/ostrich-gpp-compiler.git",
         "https://github.com:/Sable/ostrich-browserify-compiler.git",
