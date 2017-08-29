@@ -1,6 +1,6 @@
 # Ostrich Suite
 
-This is a Work-In-Progress to revamp the [Ostrich Suite](https://github.com/Sable/Ostrich) to follow the latest conventions offered by the [Wu-Wei Benchmarking Toolkit](https://github.com/Sable/wu-wei-benchmarking-toolkit). Once completed, it will supersed the previous effort on [Ostrich2](https://github.com/Sable/Ostrich2) and be vastly more convenient to use. 
+This is a Work-In-Progress to revamp the [Ostrich Suite](https://github.com/Sable/Ostrich) to follow the latest conventions offered by the [Wu-Wei Benchmarking Toolkit](https://github.com/Sable/wu-wei-benchmarking-toolkit). Once completed, it will supersede the previous effort on [Ostrich2](https://github.com/Sable/Ostrich2) and be vastly more convenient to use. 
 
 # Installation
 
