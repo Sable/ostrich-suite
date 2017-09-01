@@ -26,7 +26,7 @@ Here is the list of benchmarks to complete:
 | lud          | c,js,matlab,matlab-native (uses lud buitin)   | S,M,L | yes  | chrome,firefox,matlab-vm,native,node,safari              | osx               | yes                             |
 | nqueens      | c,js,matlab       |  S,M,L (L not tested for matlab because it is too slow) | yes                      | chrome,firefox,matlab-vm,native,node,safari                    | osx         | yes                             |
 | nw           | c,js,matlab       |  S,M,L        | yes                      | chrome,firefox,matlab-vm,native,node,safari |  osx              | yes                             |
-| page-rank    |                   |               | no                      |                     |                  | no                             |
+| page-rank    | c,js,matlab       |  S,M,L        | yes                      | chrome,firefox,matlab-vm,native,node,safari | osx              | yes                             |
 | spmv         |                   |               | no                      |                     |                  | no                             |
 | srad         | c,js,matlab       | S,M,L         | yes                     | chrome,firefox,matlab-vm,native,node,safari |   osx            | yes                             |
 
