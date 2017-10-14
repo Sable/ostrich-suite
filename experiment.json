@@ -13,6 +13,8 @@
         "https://github.com:/Sable/nw-benchmark.git",
         "https://github.com/Sable/pagerank-benchmark.git",
         "https://github.com:/Sable/srad-benchmark.git",
+        "https://github.com:/Sable/spmv-benchmark.git",
+        "https://github.com:/Sable/hmm-benchmark.git",
         "https://github.com:/Sable/ostrich-gcc-compiler.git",
         "https://github.com:/Sable/ostrich-gpp-compiler.git",
         "https://github.com:/Sable/ostrich-browserify-compiler.git",
