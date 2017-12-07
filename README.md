@@ -30,3 +30,22 @@ Here is the list of benchmarks to complete:
 | spmv         |                   |               | no                      |                     |                  | no                             |
 | srad         | c,js,matlab       | S,M,L         | yes                     | chrome,firefox,matlab-vm,native,node,safari |   osx            | yes                             |
 
+## Memory Usage
+
+Input: default (medium size)
+
+| Name         | Peak Memory        |
+| :----------- | :----------------- |
+| backprop     | 792 MB (811124 KB) |
+| bfs          | 1.7 GB (1782056 KB)|
+| crc          | 100 MB (102504 KB) |
+| fft          | 93  MB (95420 KB)  |
+| lavamd       | 75  MB (76808 KB)  |
+| lud          | 120 MB (123408 KB) |
+| nqueens      | 73  MB (75004 KB)  |
+| nw           | 156 MB (159432 KB) |
+| pagerank     | 75  MB (77140 KB)  |
+| srad         | 75  MB (77048 KB)  |
+
+*Note:  hmm and spmv are not included.*
+
