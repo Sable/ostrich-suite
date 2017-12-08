@@ -41,12 +41,13 @@ Here is the list of benchmarks to complete:
 | bfs          | 73 MB (74748 KB)     | 1.7 GB (1782056 KB)  | (crash)             |
 | crc          | 73 MB (74796 KB)     | 100 MB (102504 KB)   | 100 MB (102556 KB)  |
 | fft          | 73 MB (74892 KB)     | 93  MB (95420 KB)    | 613 MB (627664 KB)  |
+| hmm          | 74 MB (76140 KB)     | 77  MB (78980 KB)    | 73  MB (75080 KB)   |
 | lavamd       | 76 MB (77384 KB)     | 75  MB (76808 KB)    | 188 MB (192224 KB)  |
 | lud          | 123 MB (125680 KB)   | 120 MB (123408 KB)   | 111 MB (113376 KB)  |
-| nqueens      | 76 MB (78088 KB)     | 73  MB (75004 KB)    | 73 MB (74952 KB)    |
+| nqueens      | 76 MB (78088 KB)     | 73  MB (75004 KB)    | 73  MB (74952 KB)   |
 | nw           | 73 MB (74940 KB)     | 156 MB (159432 KB)   | 545 MB (558080 KB)  |
 | pagerank     | 73 MB (75044 KB)     | 75  MB (77140 KB)    | 317 MB (324372 KB)  |
-| srad         | 74 MB (75300 KB)     | 75  MB (77048 KB)    | 77 MB (78336 KB)    |
+| spmv         | 75 MB (77088 KB)     | 74  MB (76096 KB)    | 334 MB (342052 KB)  |
+| srad         | 74 MB (75300 KB)     | 75  MB (77048 KB)    | 77  MB (78336 KB)   |
 
-*Note:  hmm and spmv are not included.*
 
