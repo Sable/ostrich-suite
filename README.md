@@ -32,20 +32,21 @@ Here is the list of benchmarks to complete:
 
 ## Memory Usage
 
-Input: default (medium size)
+- Input: small / medium / large
+- Memory usage: wu-wei + benchmark
 
-| Name         | Peak Memory        |
-| :----------- | :----------------- |
-| backprop     | 792 MB (811124 KB) |
-| bfs          | 1.7 GB (1782056 KB)|
-| crc          | 100 MB (102504 KB) |
-| fft          | 93  MB (95420 KB)  |
-| lavamd       | 75  MB (76808 KB)  |
-| lud          | 120 MB (123408 KB) |
-| nqueens      | 73  MB (75004 KB)  |
-| nw           | 156 MB (159432 KB) |
-| pagerank     | 75  MB (77140 KB)  |
-| srad         | 75  MB (77048 KB)  |
+| Name         | Peak Memory (small)  | Peak Memory (Medium) | Peak Memory (large) |
+| :----------- | :------------------- | :------------------- | :------------------ |
+| backprop     | 75 MB (76500 KB)     | 792 MB (811124 KB)   | 4 GB (4257504 KB)   |
+| bfs          | 73 MB (74748 KB)     | 1.7 GB (1782056 KB)  | (crash)             |
+| crc          | 73 MB (74796 KB)     | 100 MB (102504 KB)   | 100 MB (102556 KB)  |
+| fft          | 73 MB (74892 KB)     | 93  MB (95420 KB)    | 613 MB (627664 KB)  |
+| lavamd       | 76 MB (77384 KB)     | 75  MB (76808 KB)    | 188 MB (192224 KB)  |
+| lud          | 123 MB (125680 KB)   | 120 MB (123408 KB)   | 111 MB (113376 KB)  |
+| nqueens      | 76 MB (78088 KB)     | 73  MB (75004 KB)    | 73 MB (74952 KB)    |
+| nw           | 73 MB (74940 KB)     | 156 MB (159432 KB)   | 545 MB (558080 KB)  |
+| pagerank     | 73 MB (75044 KB)     | 75  MB (77140 KB)    | 317 MB (324372 KB)  |
+| srad         | 74 MB (75300 KB)     | 75  MB (77048 KB)    | 77 MB (78336 KB)    |
 
 *Note:  hmm and spmv are not included.*
 
